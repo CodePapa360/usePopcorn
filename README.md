@@ -50,11 +50,9 @@ Discover, rate, and track your favorite movies with usePopcorn. This React-based
 - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Installation](#installation)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Key Features🎉
 
