@@ -34,7 +34,7 @@
 
 <!-- Brief -->
 <p align="center">
-usePopcorn app is bult with a 3rd party API where you can easily search movies, bookmark, give ratings etc.
+Discover, rate, and track your favorite movies with usePopcorn. This React-based web app features a responsive design, intuitive interface, and interactive movie rating.
 </p>
 
 <!-- Screenshot -->
